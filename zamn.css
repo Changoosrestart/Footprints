@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg');
+    color: #FFFFFF;
+}
+#wgtmsr{
+    padding: 2px;
+    font-size: 30px;
+    background: transparent;
+    color: #FFFFFF;
+    width:400px;    
+}
+
+#wgtmsr option{
+background-color: black;
+}
+
+@font-face {
+	font-family: "cactus";
+	src: url(Cactus\ Jack.woff);
+    font-size: 70px;
+}
+
+@font-face {
+	font-family: "cactus2";
+	src: url(Cactus\ Jack\ Alternate.woff);
+    font-size: 70px;
+}
